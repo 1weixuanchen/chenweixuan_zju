@@ -7,26 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am **Weixuan Chen (陈玮烜)**, a Ph.D. student in **Information and Communication Engineering** at the **College of Information Science and Electronic Engineering, Zhejiang University**, advised by **Researcher Qianqian Yang**.
+I am **Weixuan Chen (陈玮烜)**, a Ph.D. student in **Information and Communication Engineering** at the **College of Information Science and Electronic Engineering, Zhejiang University**, advised by **Prof. Qianqian Yang**.
 
 From March 2026 to September 2026, I am expected to visit the **College of Design and Engineering, National University of Singapore**, working with **Prof. Biplab Sikdar**.
 
-My research interests include **semantic communications**, **secure semantic communications**, **privacy-preserving semantic communications**, **deep joint source-channel coding**, and **AI-empowered wireless communications**.
+My research interests include **Adaptive semantic communications**, **Secure and privacy-preserving semantic communications**, **AI for wireless communications**, and **Token communications**.
 
 I received my B.Eng. degree in **Electronic Information Engineering** from **Sichuan University** in 2022, where I ranked **1st out of 125 students** in my major.
 
 ## Research Interests
 
-- Semantic communications
+- Adaptive semantic communications
 - Secure and privacy-preserving semantic communications
-- Deep joint source-channel coding
 - AI for wireless communications
-- Wireless image transmission
-- Physical-layer security
+- Token communications
 
 ## News
 
-- **May 2026:** Our work “Evolving Token Communication with Parametric Memory Network” was released on arXiv.
+- **2026:** Our work “Evolving Token Communication with Parametric Memory Network” was released on arXiv.
 - **2026:** Our paper on secure digital semantic communications was accepted by *IEEE Network*.
 - **2026:** Our paper on coding-enhanced jamming for semantic communication was accepted by *IEEE Journal on Selected Areas in Communications*.
 - **2026:** Our paper on superposition-code-based semantic communication was published in *IEEE Transactions on Mobile Computing*.
@@ -40,7 +38,7 @@ I received my B.Eng. degree in **Electronic Information Engineering** from **Sic
 College of Information Science and Electronic Engineering  
 Sep. 2022 -- Jun. 2027 expected  
 
-Advisor: Researcher Qianqian Yang
+Advisor: Prof. Qianqian Yang
 
 ### National University of Singapore  
 **Visiting Ph.D. Student**, College of Design and Engineering  
