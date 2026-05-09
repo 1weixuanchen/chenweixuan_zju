@@ -34,7 +34,7 @@ I am originally from **Yancheng, Jiangsu, China**. I passed **CET-4 with a score
 - **2025.11:** I was selected for the **Young Elite Scientists Sponsorship Program for Doctoral Students** by the China Association for Science and Technology.
 - **2025.10:** Our paper “A Superposition Code-Based Semantic Communication Approach With Quantifiable and Controllable Security” was accepted by *IEEE Transactions on Mobile Computing*.
 - **2025.10:** Our work “Privacy-Preserving Semantic Communication over Wiretap Channels with Learnable Differential Privacy” was submitted to *IEEE TIFS*.
-- **2025.10:** I received the **Outstanding Graduate Student** honor for the 2024–2025 academic year.
+- **2025.10:** I received the Outstanding Graduate Student honor for the 2024–2025 academic year.
 - **2025.8:** I received the **Best Paper Award** at *IEEE/CIC International Conference on Communications in China (ICCC) 2025*.
 - **2025.7:** Our paper “Enhancing the Security of Semantic Communication via Knowledge-Aided Coding and Jamming” was accepted by *IEEE/CIC International Conference on Communications in China (ICCC) 2025*.
 - **2025.2:** Our paper “CASC: Condition-Aware Semantic Communication with Latent Diffusion Models” was accepted by *IEEE International Conference on Communications Workshops (ICC Workshops) 2025*.
