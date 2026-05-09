@@ -15,6 +15,8 @@ My research interests include **Adaptive semantic communications**, **Secure and
 
 I received my B.Eng. degree in **Electronic Information Engineering** from **Sichuan University (985, QS=324)** in 2022, where I ranked **1st out of 125 students** in my major.
 
+I am originally from **Yancheng, Jiangsu, China**. I passed **CET-4 with a score of 621** and **CET-6 with a score of 579**.
+
 ## Research Interests
 
 - Adaptive semantic communications
@@ -126,3 +128,4 @@ Sep. 2018 -- Jun. 2022
 - Email: [weixuanchen@zju.edu.cn](mailto:weixuanchen@zju.edu.cn)
 - Google Scholar: [Homepage](https://scholar.google.com/citations?hl=en&user=56JQr48AAAAJ&view_op=list_works&sortby=pubdate)
 - GitHub: [1weixuanchen](https://github.com/1weixuanchen)
+- QQ: 951275747
