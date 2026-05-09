@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am **Weixuan Chen (陈玮烜)**, a Ph.D. student in **Information and Communication Engineering** at the **College of Information Science and Electronic Engineering, Zhejiang University**, advised by **Prof. Qianqian Yang**.
+I am **Weixuan Chen (陈玮烜)**, a Ph.D. student in **Information and Communication Engineering** at the **College of Information Science and Electronic Engineering, Zhejiang University (985, QS=47)**, advised by **Prof. Qianqian Yang**.
 
-From March 2026 to September 2026, I am expected to visit the **College of Design and Engineering, National University of Singapore**, working with **Prof. Biplab Sikdar**.
+From March 2026 to September 2026, I am expected to visit the **College of Design and Engineering, National University of Singapore (QS=8)**, working with **Prof. Biplab Sikdar**.
 
 My research interests include **Adaptive semantic communications**, **Secure and privacy-preserving semantic communications**, **AI for wireless communications**, and **Token communications**.
 
-I received my B.Eng. degree in **Electronic Information Engineering** from **Sichuan University** in 2022, where I ranked **1st out of 125 students** in my major.
+I received my B.Eng. degree in **Electronic Information Engineering** from **Sichuan University (985, QS=324)** in 2022, where I ranked **1st out of 125 students** in my major.
 
 ## Research Interests
 
@@ -24,29 +24,39 @@ I received my B.Eng. degree in **Electronic Information Engineering** from **Sic
 
 ## News
 
-- **2026:** Our work “Evolving Token Communication with Parametric Memory Network” was released on arXiv.
-- **2026:** Our paper on secure digital semantic communications was accepted by *IEEE Network*.
-- **2026:** Our paper on coding-enhanced jamming for semantic communication was accepted by *IEEE Journal on Selected Areas in Communications*.
-- **2026:** Our paper on superposition-code-based semantic communication was published in *IEEE Transactions on Mobile Computing*.
-- **2025:** I received the **Best Paper Award** at IEEE/CIC ICCC 2025.
+- **2026:** Our work “Evolving Token Communication with Parametric Memory Network” was submitted to *IEEE GLOBECOM 2026*.
+- **2026:** Our paper “Secure Digital Semantic Communications: Fundamentals, Challenges, and Opportunities” was accepted by *IEEE Network*.
+- **2026:** Our work “A DRL-Empowered Multi-Level Jamming Approach for Secure Semantic Communication” was accepted by *IEEE ICC 2026 CISS Track*.
+- **2026:** Our paper “Can Knowledge Improve Security? A Coding-Enhanced Jamming Approach for Semantic Communication” was published in *IEEE Journal on Selected Areas in Communications*.
+- **2026:** Our paper “A Superposition Code-Based Semantic Communication Approach With Quantifiable and Controllable Security” was published in *IEEE Transactions on Mobile Computing*.
+- **2025:** Our work “Privacy-Preserving Semantic Communication over Wiretap Channels with Learnable Differential Privacy” was submitted to *IEEE TIFS*.
+- **2025:** I received the **Best Paper Award** at *IEEE/CIC International Conference on Communications in China (ICCC) 2025*.
+- **2025:** Our paper “Enhancing the Security of Semantic Communication via Knowledge-Aided Coding and Jamming” was accepted by *IEEE/CIC International Conference on Communications in China (ICCC) 2025*.
+- **2025:** Our paper “CASC: Condition-Aware Semantic Communication with Latent Diffusion Models” was accepted by *IEEE International Conference on Communications Workshops (ICC Workshops) 2025*.
+- **2025:** Our work “Entropy-and-Channel-Aware Adaptive-Rate Semantic Communication with MLLM-Aided Feature Compensation” was released on arXiv.
 - **2025:** I was selected for the **Young Elite Scientists Sponsorship Program for Doctoral Students** by the China Association for Science and Technology.
+- **2024:** I received the **Outstanding Graduate Student** honor for the 2024–2025 academic year.
+- **2024:** Our paper “Pilot-Free Semantic Communication Over Multi-User MIMO Fading Channels” was accepted by *IEEE International Conference on Image Processing (ICIP) 2024*.
+- **2024:** Our paper “Enhancing Image Privacy in Semantic Communication over Wiretap Channels Leveraging Differential Privacy” was accepted by *IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024*.
+- **2023:** Our paper “Deep Joint Source-Channel Coding for Wireless Image Transmission with Entropy-Aware Adaptive Rate Control” was accepted by *IEEE Global Communications Conference (GLOBECOM) 2023*.
+- **2023:** Our paper “Efficient Pruning Method for Learned Lossy Image Compression Models Based on Side Information” was accepted by *IEEE International Conference on Image Processing (ICIP) 2023*.
 
 ## Education
 
-### Zhejiang University  
+### Zhejiang University (985, QS=47)  
 **Ph.D. Student**, Information and Communication Engineering  
 College of Information Science and Electronic Engineering  
 Sep. 2022 -- Jun. 2027 expected  
 
 Advisor: Prof. Qianqian Yang
 
-### National University of Singapore  
+### National University of Singapore (QS=8)  
 **Visiting Ph.D. Student**, College of Design and Engineering  
 Mar. 2026 -- Sep. 2026 expected  
 
 Host advisor: Prof. Biplab Sikdar
 
-### Sichuan University  
+### Sichuan University (985, QS=324)  
 **B.Eng.**, Electronic Information Engineering  
 College of Electronics and Information Engineering  
 Sep. 2018 -- Jun. 2022  
