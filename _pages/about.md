@@ -65,7 +65,15 @@ Sep. 2018 -- Jun. 2022
 
 - Weighted average score: **91.87/100**
 - GPA: **3.93/4.0**
-- Ranking: **1/125**
+- Ranking: **1/125** (**Top 1**)
+
+#### Selected Coursework
+
+- Calculus: **97**, Probability Theory: **98**, Signals and Systems: **95**
+- Digital Signal Processing: **89**, Embedded System Design: **96**, EDA Technology: **94**
+- C Programming: **93**, Digital Circuits: **95**, Analog Circuits: **95**
+- Modern Communication Technology: **92**, Principles of Microcomputers: **94**
+- Automatic Control: **96**, Digital Cryptography: **98**
 
 ## Publications
 
@@ -101,15 +109,15 @@ Sep. 2018 -- Jun. 2022
 
 ## Honors and Awards
 
+- **National Scholarship**, twice (**Top 1%**)
+- Jiuzhou Electric Scholarship Award (**Top 1%**)
+- **Huawen Scholarship Award** (**Top 1%**)
+- First-Class Scholarship Award, Sichuan University (**Top 3%**)
+- Outstanding Student Award, Sichuan University, three times (**Top 5%**)
 - **Young Elite Scientists Sponsorship Program for Doctoral Students**, China Association for Science and Technology, 2025
 - **Best Paper Award**, IEEE/CIC International Conference on Communications in China, 2025
-- Outstanding Graduate Student, Zhejiang University, 2024-2025
+- Outstanding Graduate Student, Zhejiang University, 2024–2025
 - Graduate Academic/Practice Innovation Excellence Award, Zhejiang University, twice
-- **National Scholarship**, twice
-- Jiuzhou Electric Scholarship
-- **Huawen Scholarship**
-- First-Class Scholarship, Sichuan University
-- Outstanding Student Award, Sichuan University, three times
 - First Prize, Asia and Pacific Mathematical Contest in Modeling
 - First Prize, MathorCup Mathematical Modeling Challenge
 - Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling
@@ -122,6 +130,7 @@ Sep. 2018 -- Jun. 2022
 - Hardware description languages: VHDL, Verilog
 - FPGA development
 - Academic English writing and technical documentation
+- Teaching: capable of teaching undergraduate-level courses in computer science, electronic information engineering, communication engineering, cybersecurity, automation, mathematics, and physics, as well as middle- and high-school mathematics and physics
 
 ## Contact
 
